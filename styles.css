@@ -1,0 +1,32 @@
+ul.hnb{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    background-color:grey;
+    font-size: large;
+    text-align: center;
+    border-right:1px solid #bbb;
+
+}
+
+li.a3{
+    float:left;
+    display: block;
+    padding: 14px 16px;
+    background-color:grey;
+    color: white;
+    border-right:1px solid black;
+    
+}
+
+li.a4{
+    float:left;
+    padding: 14px 16px;
+    display: block;
+    color: blue;
+    background-color:rgb(198, 183, 183);
+    border-right:1px solid black;
+}
+
+
